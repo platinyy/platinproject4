@@ -1,0 +1,19 @@
+/* ============================================= */
+/*              Base styles                      */
+/* ============================================= */
+
+* {
+    font-family: $font-stack-primary;
+    color: $color-primary;
+    box-sizing: border-box;
+  }
+  
+  p {
+    line-height: 1.45em;
+  }
+  
+  a{
+    text-decoration: none;
+    font-weight: $font-h4;
+  }
+  

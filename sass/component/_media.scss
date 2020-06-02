@@ -1,0 +1,10 @@
+@media (min-width: $break-m){
+    .centered {
+      @include display;
+    }
+    .logo {
+      margin-left: initial;
+      margin-right: initial;
+    }
+  }
+   
